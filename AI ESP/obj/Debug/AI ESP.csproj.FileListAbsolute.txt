@@ -1,0 +1,36 @@
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AI ESP.exe.config
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AI ESP.exe
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AI ESP.pdb
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.Video.DirectShow.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.Video.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.Video.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\AForge.Video.DirectShow.xml
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.csproj.AssemblyReference.cache
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.csproj.SuggestedBindingRedirects.cache
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.csproj.CoreCompileInputs.cache
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.csproj.CopyComplete
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.exe
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.pdb
+E:\CSProject\AI ESP\AI ESP\bin\Debug\Emgu.CV.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Buffers.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Memory.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Numerics.Vectors.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Text.Encodings.Web.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Text.Json.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.ValueTuple.dll
+E:\CSProject\AI ESP\AI ESP\bin\Debug\Emgu.CV.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Buffers.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Memory.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Numerics.Vectors.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Text.Encodings.Web.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Text.Json.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CSProject\AI ESP\AI ESP\bin\Debug\System.ValueTuple.xml
+E:\CSProject\AI ESP\AI ESP\obj\Debug\AI ESP.exe.config
