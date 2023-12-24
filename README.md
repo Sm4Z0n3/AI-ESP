@@ -48,7 +48,7 @@ node main.js
 #### Termux
 如果你使用Android系统的Termux，那么你可以使用以下指令进行安装<br>
 ``` bash
-sudo apt update
+apt update
 ```
 ```bash
 apt upgrade
@@ -57,16 +57,16 @@ apt upgrade
 apt install coreutils
 ```
 ```bash
-sudo apt install nodejs
+apt install nodejs
 ```
 ```bash
-sudo apt install npm
+apt install npm
 ```
 ```bash
-sudo npm install
+npm install
 ```
 ```bash
-sudo apt install git
+apt install git
 ```
 ```bash
 mkdir AI-ESP
